@@ -1,0 +1,52 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+	
+}
+body{
+	font-family:arial;
+	font-size:14px;
+	line-height:18px;
+	color:black;
+}
+.template{width:960px;margin:0 auto;}
+.headersection{
+	padding:5px;
+	height:85px;
+	background:black;
+	color:white;
+	
+	
+}
+.headersection p{
+	font-size:40px;
+	text-align:center;
+	
+}
+.navsection{
+	
+	
+}
+.contentsection{
+	
+	
+}
+.maincontent{
+	
+}
+.maincontent p{
+	
+}
+.sidebarsection{
+	
+}
+.sidebarsection p{
+	
+}
+.footersection{
+	
+}
+.footersection p{
+	
+}
