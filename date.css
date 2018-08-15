@@ -1,0 +1,30 @@
+body{
+	
+	background-image:url('skzz.jpg');
+}
+
+
+.birth{
+	
+	margin:auto;
+	padding:10%;
+	width:350px;
+	
+	color:yellow;
+	font-size:25px;
+	
+}
+.birth input{
+	padding:10px;
+	font-size:25px;
+	margin:auto;
+	border:2px solid #91e842;
+}
+.birth button{
+	margin-top:5px ;
+	font-size:25px;
+	background-color:#db36a4;
+}
+.birth h1{
+	font-size:25px;
+}
